@@ -1,0 +1,78 @@
+DATA SCIENCE RESEARCH CAPSTONE
+Project: Predicting Student Academic Performance Using Machine Learning
+
+PROJECT SUMMARY
+
+This project uses data science and machine learning techniques to predict
+student academic performance.
+
+The project uses the following input features:
+
+1. Study Hours
+2. Attendance
+3. Previous Score
+4. Assignments Completed
+5. Sleep Hours
+
+Target Variable:
+Final Score
+
+DATA SCIENCE WORKFLOW
+
+1. Data Collection
+2. Data Cleaning
+3. Data Preprocessing
+4. Exploratory Data Analysis
+5. Feature Selection
+6. Train-Test Split
+7. Feature Scaling
+8. Machine Learning Model Training
+9. Prediction
+10. Model Evaluation
+11. Feature Importance Analysis
+12. Conclusion
+
+MACHINE LEARNING MODEL
+
+Random Forest Regression is used to predict the final academic score.
+
+EVALUATION METRICS
+
+Mean Absolute Error (MAE)
+Mean Squared Error (MSE)
+Root Mean Squared Error (RMSE)
+R2 Score
+
+TOOLS USED
+
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+Jupyter Notebook
+GitHub
+
+RESEARCH QUESTION
+
+Can student academic performance be predicted using study habits,
+attendance, previous academic performance, assignment completion,
+and sleep hours?
+
+PRACTICAL APPLICATION
+
+The proposed system can support academic performance monitoring,
+student progress analysis, early academic support, and data-driven
+educational planning.
+
+LIMITATION
+
+The dataset is designed for a capstone demonstration and contains
+a limited number of records and variables. Further validation using
+larger real-world datasets is required.
+
+CONCLUSION
+
+The project demonstrates an end-to-end data science workflow for
+predicting student academic performance using machine learning.
